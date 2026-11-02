@@ -1,5 +1,7 @@
 # embedded-c-systems
 
+[![ci](https://github.com/ribhu0908/embedded-c-systems/actions/workflows/ci.yml/badge.svg)](https://github.com/ribhu0908/embedded-c-systems/actions/workflows/ci.yml)
+
 Three building blocks every firmware platform ends up needing, written in portable C11 with **no libc allocation, no OS dependency, and full host unit tests under AddressSanitizer + UBSan**.
 
 | Module | What it solves | Key idea |
